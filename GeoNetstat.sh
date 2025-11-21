@@ -8,6 +8,7 @@
 ## - dnsutils: for reverse DNS via host
 ## - grep (with Perl regex support): for extracting process names
 ## - whiptail: for interactive menu (install via: sudo apt install whiptail)
+## - note you may need apt-transport-https if location is showing UNKNOWN.
 
 # If no arguments, show menu
 if [[ $# -eq 0 ]]; then
