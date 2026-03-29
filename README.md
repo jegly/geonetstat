@@ -153,15 +153,6 @@ sudo ./geonetstat.sh netstat -tulnp
 
 ---
 
-## > Contributing
-
-We welcome PRs, bug fixes, and feature improvements. Whether you're adding new functionality, improving performance, or fixing issues — we'd love your help.
-
-**Areas we'd love help with:**
-- Additional geolocation providers
-- Export options (CSV, JSON)
-- Connection filtering and search
-- Performance optimizations
 
 ---
 
@@ -174,11 +165,8 @@ We welcome PRs, bug fixes, and feature improvements. Whether you're adding new f
 
 ---
 
-## > Contact :D
 
-- GitHub: [@globalcve](https://github.com/globalcve)
-- Email: globalcve@gmail.com
 
 ---
 
-Built with transparency, minimalism, and respect for network visibility.
+
